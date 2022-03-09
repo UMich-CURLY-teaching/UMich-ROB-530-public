@@ -29,3 +29,13 @@ Errata for the third printing can be found on the book's website: http://www.pr
 
 2. [State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
 Timothy D. Barfoot, University of Toronto, 2021
+
+## [Assignments](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework)
+
+1. [Homework 1 -- Preliminaries](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-01)
+2. [Homework 2 -- Estimation & Kalman Filtering](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-02)
+3. [Homework 3 -- Nonlinear Filtering](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-03)
+4. [Homework 4 -- Lie Groups & Invariant EKF](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-04)
+5. [Homework 5 -- Localization](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-05)
+6. Homework 6 -- Mapping
+7. Homework 7 -- SLAM
