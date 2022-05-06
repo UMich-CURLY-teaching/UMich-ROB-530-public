@@ -3,6 +3,8 @@
 
 For slides, lecture notes, and example codes, see https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public 
 
+In Winter 2022, we had 140 graduate students and a few undergraduate students.
+
 ## Recorded Lectures
 
 - Playlist of the lectures on YouTube: https://www.youtube.com/watch?v=pH4Pkmey2_E&list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F
@@ -41,3 +43,8 @@ Timothy D. Barfoot, University of Toronto, 2021
 5. [Homework 5 -- Localization](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-05)
 6. [Homework 6 -- Mapping](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-06)
 7. [Homework 7 -- SLAM](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public/tree/main/homework/homework-07)
+
+## Prerequisites
+Exposure to Linear Algebra, check out [ROB 101](https://github.com/michiganrobotics/rob101), [ROB 101 Book](https://github.com/michiganrobotics/rob101/blob/main/Fall%202021/Textbook/ROB_101_December_2021_Grizzle.pdf), and [ROB 501](https://github.com/michiganrobotics/rob501), basic Probability and Statistics, Estimation, Matrix Calculation, and essential Calculus such as Taylor series and function approximation would be useful. We will review them in class.
+
+Familiarity with one programming language. We use MATLAB, Python, [Julia](https://julialang.org/), and C++ for programming throughout the course.
