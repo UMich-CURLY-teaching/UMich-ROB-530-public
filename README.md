@@ -48,3 +48,25 @@ Timothy D. Barfoot, University of Toronto, 2021
 Exposure to Linear Algebra, check out [ROB 101](https://github.com/michiganrobotics/rob101), [ROB 101 Book](https://github.com/michiganrobotics/rob101/blob/main/Fall%202021/Textbook/ROB_101_December_2021_Grizzle.pdf), and [ROB 501](https://github.com/michiganrobotics/rob501), basic Probability and Statistics, Estimation, Matrix Calculation, and essential Calculus such as Taylor series and function approximation would be useful. We will review them in class.
 
 Familiarity with one programming language. We use MATLAB, Python, [Julia](https://julialang.org/), and C++ for programming throughout the course.
+
+## Related Online Resources
+There are a massive amount of related resources available online for free. I list some of them here (non-exhaustive), so you can choose based on your preference and priorities.
+
+- [Artificial Intelligence for Robotics (recommended)](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [SLAM Course by Prof. Cyrill Stachniss (recommended)](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- Linear Algebra:
+  * [MIT 18.06 Linear Algebra, Spring 2005 by Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+  * [Linear Algebra Done Right by Prof. Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+  * [Introduction to Applied Linear Algebra by Prof. Stephen P. Boyd](https://web.stanford.edu/~boyd/vmls/)
+- [A Primer on Matrices (recommended) by Prof. Stephen P. Boyd](http://ee263.stanford.edu/notes/notes-matrix-primer.pdf)
+- [Introduction to Linear Dynamical Systems by Prof. Stephen P. Boyd](http://ee263.stanford.edu/lectures.html)
+- [Graphical Models by Prof. Zoubin Ghahramani](http://videolectures.net/mlss2012_ghahramani_graphical_models/)
+- [Probabilistic Graphical Models by Prof. Daphne Koller](https://www.coursera.org/specializations/probabilistic-graphical-models)
+- [Gaussian Processes by Prof. Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/)
+- [UC Berkeley Artificial Intelligence CS 188 by Prof. Pieter Abbeel](https://www.youtube.com/playlist?list=PLIZQvCoJVokgKBNx210mkXEk4FeSOGfWu)
+- [MIT 6.034 Artificial Intelligence by Prof. Patrick Winston](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [TUM Multiple View Geometry by Prof. Daniel Cremers](https://www.youtube.com/watch?v=RDkwklFGMfo&list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
+
+## Acknowledgement
+An early version of this course was based on previous UM courses imparted by [Prof. Ryan Eustice](http://robots.engin.umich.edu/~ryan/) and [Prof. Edwin Olson](https://april.eecs.umich.edu/people/ebolson/).
