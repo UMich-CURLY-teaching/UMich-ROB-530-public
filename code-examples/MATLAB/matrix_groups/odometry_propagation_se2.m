@@ -59,6 +59,7 @@ robot.G3 = [0    -1     0
             1     0     0
             0     0     0];
 % SE(2) Adjoint
+% robot.Ad = @(X) [1 0 0; [X(2,3); -X(1,3)] X(1:2,1:2)]; % If we set twist = vec(omega, v1, v2)
 robot.Ad = @(X) [X(1:2,1:2), [X(2,3); -X(1,3)]; 0 0 1];
 
 % construct noise free motion trajectory
