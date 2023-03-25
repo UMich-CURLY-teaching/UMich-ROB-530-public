@@ -27,9 +27,9 @@ G = cell(6,1);
 G{1} = [skew(e1), zeros(3,1); zeros(1,4)];
 G{2} = [skew(e2), zeros(3,1); zeros(1,4)];
 G{3} = [skew(e3), zeros(3,1); zeros(1,4)];
-G{4} = zeros(4); G{1}(1,4) = 1;
-G{5} = zeros(4); G{2}(2,4) = 1;
-G{6} = zeros(4); G{3}(3,4) = 1;
+G{4} = zeros(4); G{4}(1,4) = 1;
+G{5} = zeros(4); G{5}(2,4) = 1;
+G{6} = zeros(4); G{6}(3,4) = 1;
 
 % a sequence of relative rigid body transformation
 U = cell(5,1);
